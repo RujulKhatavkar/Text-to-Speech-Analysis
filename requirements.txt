@@ -39,7 +39,7 @@ docopt==0.6.2
 einops==0.8.0
 exceptiongroup==1.2.0
 fastapi==0.109.2
-faster-whisper==1.0.1
+faster-whisper==1.0.0
 filelock==3.13.1
 flatbuffers==24.3.25
 fonttools==4.53.1

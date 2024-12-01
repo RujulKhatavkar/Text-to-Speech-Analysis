@@ -1,0 +1,10 @@
+start,end,text,speaker,neg,neu,pos,compound,sentiment_category
+0.089,2.39, Most people put it at four years.,SPEAKER_01,0.0,1.0,0.0,0.0,Neutral
+2.43,5.172,He's getting along in time.,SPEAKER_01,0.0,1.0,0.0,0.0,Neutral
+5.192,6.893,And he's not what he used to be.,SPEAKER_01,0.0,1.0,0.0,0.0,Neutral
+6.913,9.794,"You know, when you talk to him, he's a little difficult.",SPEAKER_01,0.197,0.803,0.0,-0.2975,Negative
+10.875,12.236,He struggled with some questions.,SPEAKER_01,0.375,0.625,0.0,-0.34,Negative
+15.077,21.421,"Which is another endlessly interesting, tragic thought that I think about a lot is how we humans go",SPEAKER_02,0.152,0.711,0.137,-0.0772,Negative
+22.307,28.878," Meanwhile, your AI is just getting smarter and smarter and smarter infinitely, including in terms of time.",SPEAKER_02,0.0,0.609,0.391,0.8402,Positive
+29.399,31.082,And we just deteriorate.,SPEAKER_02,0.0,1.0,0.0,0.0,Neutral
+31.262,31.583,For now.,SPEAKER_01,0.0,1.0,0.0,0.0,Neutral

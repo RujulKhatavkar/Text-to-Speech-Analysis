@@ -1,5 +1,8 @@
 # 🎙️ Speech-to-Text with Speaker Diarization and Sentiment Analysis 🎙️
 
+## Here is the link to use this application hosted on Streamlit Cloud Community
+https://speech-to-text-analysis-5lj8qzwt925q4qdfo48yxi.streamlit.app/
+
 # Speech-To-Text Project
 
 This repository contains a Speech-to-Text application that converts spoken words into text using machine learning techniques and cutting-edge NLP models. The project aims to provide a flexible and efficient solution for transforming audio files or real-time speech into text, making it suitable for a wide range of applications such as transcription services, accessibility tools, and voice-controlled interfaces.

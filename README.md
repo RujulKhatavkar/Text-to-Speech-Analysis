@@ -29,8 +29,10 @@ Here users can upload audio files (WAV or MP3 format) for transcription with add
   - **Sentiment Analysis**: Displays the sentiment (e.g., positive, negative, neutral) for each speaker's segment to give a deeper understanding of the conversation.
 
 ![image](https://github.com/user-attachments/assets/a5ca2ffc-5163-4316-b81b-5b38dfaa0829)
-![image](https://github.com/user-attachments/assets/e50fe7d0-4190-437e-a50a-23147ce35f75)
-![image](https://github.com/user-attachments/assets/043297db-9dcb-4f05-8ff5-20b90cc6bad5)
+
+![image](https://github.com/user-attachments/assets/6085f876-fc3a-44be-970e-ba15b96f5bc9)
+
+![image](https://github.com/user-attachments/assets/842671c9-a3aa-4b9f-8f7a-498bead065f4)
 
 
 ## Installation

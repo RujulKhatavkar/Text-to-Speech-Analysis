@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from main import process_audio
 from feedback_generation import ConversationReviewer
 
-img_path = "/Users/rujul/Documents/Projects/Speech-To-Text-Project/Speech-To-Text-Project-main/uploaded_files/ff620854b85ca2824e8e3b6b3e5d079e.gif"
+img_path = "uploaded_files/ff620854b85ca2824e8e3b6b3e5d079e.gif"
 
 # Set up page configuration
 st.set_page_config(page_title="Speech To Text Analysis", layout="wide")
